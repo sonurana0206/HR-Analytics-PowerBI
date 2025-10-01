@@ -53,4 +53,8 @@ These visuals help HR teams understand workforce patterns and make data-driven d
 
 ---
 
+## 📸 Dashboard Preview  
+
+![Dashboard Screenshot](Dashboard_preview.png)
+
 💡 **Note:** This project was created as part of a **CloudyML Data Analyst Course assignment** to apply data transformation and visualization skills using Power BI.
